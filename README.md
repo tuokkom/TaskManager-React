@@ -17,6 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `npm run server`
 
-Opens a local server containing the tasks. Serves as the back end of the Task Manager application. 
+Opens a local server containing the tasks. Serves as the backend of the Task Manager application. 
 
 Open [http://localhost:5000/tasks](http://localhost:5000/tasks) to view it in the browser.
