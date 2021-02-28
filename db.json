@@ -9,13 +9,13 @@
   {
       "id":2,
       "text": "School",
-      "day": "Feb 15th at 4:30pm",
+      "day": "Feb 15th at 8:30am",
       "reminder": true
   },
   {
       "id": 3,
-      "text": "Food",
-      "day": "Feb 25th at 9:30am",
+      "text": "Football game",
+      "day": "Feb 25th at 7:00pm",
       "reminder": false
   }
   ]

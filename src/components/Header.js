@@ -15,7 +15,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 }
 
 Header.defaultProps = {
-    title: 'Investment manager',
+    title: 'Task Manager',
 }
 
 Header.propTypes = {
