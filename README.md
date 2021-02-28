@@ -2,7 +2,9 @@
 
 This project is [running on Heroku](https://task-manager-react-demo.herokuapp.com/).
 
-Task Manager is made by following the React crash course available [here](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4993s).
+Task Manager is made by following the React crash course available [here](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t).
+
+The Heroku version of the Task Manager application is missing the backend side. Backend is included in this repository. 
 
 ## Available Scripts
 
