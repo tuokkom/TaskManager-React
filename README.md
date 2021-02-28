@@ -2,6 +2,8 @@
 
 This project is [running on Heroku](https://task-manager-react-demo.herokuapp.com/).
 
+Task Manager is made by following the React crash course available [here](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4993s).
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,6 +15,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `npm run server`
+
+Opens a local server containing the tasks. Serves as the back end of the Task Manager application. 
+
+Open [http://localhost:5000/tasks](http://localhost:5000/tasks) to view it in the browser.
 
 ### `npm test`
 
